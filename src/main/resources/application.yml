@@ -1,0 +1,9 @@
+server:
+  port: 8443
+  ssl:
+    key-store-type: JKS
+    key-store: /root/바탕화면/Java_workspace/https/src/main/resources/config/keystore
+    key-store-password: passphrase
+
+
+
