@@ -10,8 +10,6 @@ import javax.net.ServerSocketFactory;
 import javax.net.ssl.SSLServerSocket;
 import javax.net.ssl.SSLServerSocketFactory;
 
-import com.sun.tools.classfile.Annotation.element_value;
-
 public class SSLServer {
 	
 	private static final int PORT = 8282;
